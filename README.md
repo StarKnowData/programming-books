@@ -119,6 +119,7 @@
 * [Apache 中文手册](http://works.jinbuguo.com/apache/menu22/index.html)
 * [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html) (淘宝团队出品)
 * [Nginx教程从入门到精通](http://www.ttlsa.com/nginx/nginx-stu-pdf/) (PDF版本，运维生存时间出品)
+* [OpenResty最佳实践](https://moonbingbing.gitbooks.io/openresty-best-practices/content/index.html)
 
 
 ### 其它
@@ -349,6 +350,8 @@
 * [像计算机科学家一样思考（C++版)](http://www.ituring.com.cn/book/1203) (《How To Think Like a Computer Scientist: C++ Version》中文版)
 * [简单易懂的C魔法](http://www.nowamagic.net/librarys/books/contents/c)
 * [跟我一起写Makefile(PDF)](http://scc.qibebt.cas.cn/docs/linux/base/%B8%FA%CE%D2%D2%BB%C6%F0%D0%B4Makefile-%B3%C2%F0%A9.pdf) (PDF)
+* [C/C++中文参考手册](http://zh.cppreference.com/w/%E9%A6%96%E9%A1%B5)
+* [C语言编程透视](http://www.tinylab.org/open-c-book/)
 
 
 ### CoffeeScript
