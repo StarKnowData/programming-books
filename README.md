@@ -333,8 +333,9 @@
 
 * [100个gcc小技巧](https://github.com/hellogcc/100-gcc-tips/blob/master/src/index.md)
 * [100个gdb小技巧](https://github.com/hellogcc/100-gdb-tips/blob/master/src/index.md)
-* [C 语言编程透视](https://tinylab.gitbooks.io/cbook/content/)
+* [C 语言编程透视](http://www.tinylab.org/open-c-book/)
 * [C/C++ Primer](https://github.com/andycai/cprimer) - @andycai
+* [C/C++中文参考手册](http://zh.cppreference.com/w/%E9%A6%96%E9%A1%B5)
 * [C++ FAQ LITE(中文版)](http://www.sunistudio.com/cppfaq/)
 * [C++ Primer 5th Answers](https://github.com/Mooophy/Cpp-Primer)
 * [C++ Template 进阶指南](https://github.com/wuye9036/CppTemplateTutorial)
@@ -350,8 +351,6 @@
 * [像计算机科学家一样思考（C++版)](http://www.ituring.com.cn/book/1203) (《How To Think Like a Computer Scientist: C++ Version》中文版)
 * [简单易懂的C魔法](http://www.nowamagic.net/librarys/books/contents/c)
 * [跟我一起写Makefile(PDF)](http://scc.qibebt.cas.cn/docs/linux/base/%B8%FA%CE%D2%D2%BB%C6%F0%D0%B4Makefile-%B3%C2%F0%A9.pdf) (PDF)
-* [C/C++中文参考手册](http://zh.cppreference.com/w/%E9%A6%96%E9%A1%B5)
-* [C语言编程透视](http://www.tinylab.org/open-c-book/)
 
 
 ### CoffeeScript
